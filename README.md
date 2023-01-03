@@ -1,4 +1,4 @@
-# PowerCLI - Add New Virtual Machine Port Group for Multiple ESXi Hosts
+# PowerCLI - Add New VM Port Group for Multiple ESXi Hosts
 Creating multiple virtual switch port groups on ESXi hosts.
 
 ## How can i use ?
