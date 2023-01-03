@@ -16,14 +16,13 @@ You need following software and versions to use scripts.
 ```
 ## Example
 
-![image](https://user-images.githubusercontent.com/6716206/209731597-4dd55dd4-cec0-42be-806c-4cbd3ec94953.png)
+![image-12-600x416](https://user-images.githubusercontent.com/6716206/210381725-6fe6bca2-8cc1-41e4-9cdb-2dc6b2963704.png)
 
-![image](https://user-images.githubusercontent.com/6716206/209731662-7ec25d56-8bcf-4d86-8522-d260a327689f.png)
 
 
 ## More details about scripts
 
-https://vmbro.com/powercli-ile-esxi-toplu-ntp-guncelleme-ve-slack-bildirimi/ - Related Article
+https://vmbro.com/powercli-ile-esxi-toplu-port-group-ekleme/ - Related Article
 
 
 
