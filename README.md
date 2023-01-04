@@ -22,7 +22,7 @@ You need following software and versions to use scripts.
 
 ## More details about scripts
 
-https://vmbro.com/powercli-ile-esxi-toplu-port-group-ekleme/ - Related Article
+You can visit my blog for [creating multiple port groups on ESXi hosts with PowerCLI](https://vmbro.com/vmware-powercli-ile-esxi-toplu-port-group-ekleme/) and more detailed information.
 
 
 
